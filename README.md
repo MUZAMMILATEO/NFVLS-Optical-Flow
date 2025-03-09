@@ -35,7 +35,6 @@ works. The graphical abstract for this algorithm is illustrated under the next s
 ![Figure 1](fig/fig01.png)
 **Figure 1:** Proposed NFVLS algorithm in optical flow estimation.
 
-<br><br>
 ---
 
 ## Citation
