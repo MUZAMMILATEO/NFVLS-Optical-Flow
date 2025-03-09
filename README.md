@@ -32,14 +32,10 @@ works. The graphical abstract for this algorithm is illustrated under the next s
 </p>
 
 ## Figure  
-![Figure 1](figures/fig01.png)
-**Figure 1:** .
+![Figure 1](fig/fig01.png)
+**Figure 1:** Proposed NFVLS algorithm in optical flow estimation.
 
 <br><br>
-
-![Figure 2](figures/fig02.png)
-**Figure 2:** .
-
 ---
 
 ## Citation
