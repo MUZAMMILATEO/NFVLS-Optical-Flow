@@ -37,6 +37,11 @@ works. The graphical abstract for this algorithm is illustrated under the next s
 
 ---
 
+## Contact
+For any questions or collaboration opportunities, reach out to:
+- **Muzammil Khan** (Corresponding Author) – [m.khan@utwente.nl](mailto:m.khan@utwente.nl)
+
+---
 ## Citation
 
 If you use our code in your research, please consider citing our work using the following BibTeX entry:
